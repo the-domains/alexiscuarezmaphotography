@@ -1,0 +1,28 @@
+name: Alexiscuarezmaphotography
+favicon: null
+layout_spectrum: 0.8086635614745319
+typography_spectrum: 0.780203246511519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7678767486941069
+  lightness: 0.47027322952635586
+  saturation: 0.28641362371854484
+  rhythmicContrast: 0.6548461040947586
+purpose: []
